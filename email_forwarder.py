@@ -84,6 +84,7 @@ if __name__ == '__main__':
                 'contact@domain.tld',
                 'mary@domain.tld'
             )
+    # test
     elif current_week_day == 6:
         if current_hour in range(22):
             forward_emails(
